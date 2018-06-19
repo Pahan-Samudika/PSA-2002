@@ -1,2 +1,3 @@
 # PSA-2002
-My first repository on GitHub for BITS
+I'm M.M.A.Pahan Samudika Abhayawardhane , 
+This is my first repository on GitHub for BITS 2018 .
